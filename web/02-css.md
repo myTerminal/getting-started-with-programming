@@ -20,7 +20,7 @@ You can find [a bit more formal introduction to CSS](https://developer.mozilla.o
 
 ## CSS3
 
-Coming soon...
+Have [a quick look at a few features of CSS3](https://designshack.net/articles/introduction-to-css3-part-1-what-is-it/) and what new has been coming up in CSS.
 
 ## Tips & Tricks for CSS
 
@@ -28,4 +28,4 @@ Once you step into CSS and have written your own styles, some [tips & tricks](ht
 
 ## Book References
 
-1. [HTML5 & CSS3 For The Real World - Alexis Goldstein, Estelle Weyl, and Louis Lazaris](http://itbookshub.com/html5-css3-for-the-real-world-2nd-edition/)
+1. [HTML5 & CSS3 For The Real World - Alexis Goldstein, Estelle Weyl and Louis Lazaris](http://itbookshub.com/html5-css3-for-the-real-world-2nd-edition/)

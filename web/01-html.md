@@ -28,4 +28,4 @@ When you have some experience working with HTML (and probably CSS and JavaScript
 
 ## Book References
 
-1. [HTML5 & CSS3 For The Real World - Alexis Goldstein, Estelle Weyl, and Louis Lazaris](http://itbookshub.com/html5-css3-for-the-real-world-2nd-edition/)
+1. [HTML5 & CSS3 For The Real World - Alexis Goldstein, Estelle Weyl and Louis Lazaris](http://itbookshub.com/html5-css3-for-the-real-world-2nd-edition/)
