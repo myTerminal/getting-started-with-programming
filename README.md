@@ -8,3 +8,7 @@ A list of online references for people with little or no knowledge of programmin
   - [HTML](web/01-html.md)
   - [CSS](web/02-css.md)
   - [JavaScript](web/03-javascript.md)
+
+## Contributions
+
+Feel free to contribute with more content to help people learn this beautiful art of computer programming.
