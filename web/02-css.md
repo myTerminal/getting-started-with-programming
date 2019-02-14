@@ -6,11 +6,9 @@
 
 [HTML](01-html.md)
 
-## Fun & Interactive Introduction to CSS
-
-[Start with getting to know CSS](https://www.codecademy.com/courses/css-coding-with-style/0/1) in a practical way.
-
 ## Beginning with CSS
+
+[A very friendly and detailed post about CSS](https://dev.to/aspittel/css-from-zero-to-hero-3o16) by [Ali Spittel](https://github.com/aspittel) will help you go from level zero to somewhere where you can confidently say you know what CSS actually is and much more than that.
 
 Time for some [theory lessons](http://www.htmldog.com/guides/css/), where you can get to see what CSS is in a bit more detail. You may skip a few things and come back later for more details.
 
