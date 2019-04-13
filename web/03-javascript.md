@@ -13,7 +13,7 @@ Start with an [interactive tutorial to JavaScript](https://www.codecademy.com/le
 
 ## Beginning with JavaScript
 
-Got through a few [light theory lessons](http://htmldog.com/guides/javascript/) for JavaScript. Take a few initial steps in JavaScript by going through few of the most commonly used JavaScript constructs.
+Got through a few [light theory lessons](http://htmldog.com/guides/javascript/) for JavaScript. Take a few initial steps in JavaScript by going through a few of the most commonly used JavaScript constructs.
 
 ## A Re-introduction to JavaScript
 

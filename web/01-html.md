@@ -8,7 +8,7 @@ Start with an [interactive introduction to HTML](https://www.codecademy.com/lear
 
 ## Beginning with HTML
 
-Time for some [theory lessions](http://htmldog.com/guides/html/), get to see what HTML is in a bit more detail. Just read, understand and move on. Optionally you can skip a few detail and visit back later when you feel like.
+Time for some [theory lessions](http://htmldog.com/guides/html/), get to see what HTML is in a bit more detail. Just read, understand and move on. Optionally you can skip a few details and visit back later when you feel like.
 
 ## A More Formal Introduction to HTML
 
