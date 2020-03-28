@@ -20,11 +20,11 @@ If you're looking for a bit more formal introduction to HTML than we've already 
 
 ## HTML5 in a Bit More Detail
 
-Just in case you need a bit more of theoretical detail and history around HTML5, you can [Dive Into HTML5](http://diveintohtml5.info/).
+When (and if) you need a bit more of theoretical detail and history around HTML5, you can [Dive Into HTML5](http://diveintohtml5.info).
 
 ## Tips & Tricks that you'll soon need
 
-When you have some experience working with HTML (and probably CSS and JavaScript), find some time to take a look at a few [tips & tricks you might find helpful](https://code.tutsplus.com/tutorials/30-html-best-practices-for-beginners--net-4957).
+After you've obtained some experience working with HTML (probably also with CSS and JavaScript), find some time to take a look at a few [tips & tricks you might find helpful](https://code.tutsplus.com/tutorials/30-html-best-practices-for-beginners--net-4957).
 
 ## Book References
 

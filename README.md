@@ -4,7 +4,7 @@
 
 Generic training plans to learn computer programming
 
-Below, you can find a list of online references for people with little or no knowledge of programming to get started with various programming technologies. The guide is meant to be easy on people with relatively lesser motivation to learn programming as it uses simple tutorials to get started with, gradually moving towards details without intimidating the learner.
+Below, you can find a list of online references for people with little or no knowledge of programming to get started with various programming disciplines and technologies. The guide is meant to be easy on people with relatively lesser motivation to learn to program as it uses simple tutorials to get started with gradually moving towards details, without intimidating the learner.
 
 ## Table of Contents
 

@@ -8,9 +8,9 @@
 
 ## Beginning with CSS
 
-[A very friendly and detailed post about CSS](https://dev.to/aspittel/css-from-zero-to-hero-3o16) by [Ali Spittel](https://github.com/aspittel) will help you go from level zero to somewhere where you can confidently say you know what CSS actually is and much more than that.
+[A very friendly and detailed post about CSS](https://dev.to/aspittel/css-from-zero-to-hero-3o16) by [Ali Spittel](https://github.com/aspittel) will help you go from level zero to a point where you can confidently say you know what CSS actually, in fact much more than just that.
 
-Time for some [theory lessons](http://www.htmldog.com/guides/css/), where you can get to see what CSS is in a bit more detail. You may skip a few things and come back later for more details.
+Next, dive into some [theory lessons](http://www.htmldog.com/guides/css/), where you can get to see what CSS is in a bit more detail. You may skip over a few things and come back later for more details.
 
 ## A More Formal Introduction to CSS
 
@@ -19,6 +19,8 @@ You can find [a bit more formal introduction to CSS](https://developer.mozilla.o
 ## CSS3
 
 Have [a quick look at a few features of CSS3](https://designshack.net/articles/introduction-to-css3-part-1-what-is-it/) and what new has been coming up in CSS.
+
+***PS:** Given the rate of features getting introduced in CSS, the information here might be outdated by the time you read it.*
 
 ## Tips & Tricks for CSS
 

@@ -9,19 +9,19 @@
 
 ## Fun & Interactive Introduction to JavaScript
 
-Start with an [interactive tutorial to JavaScript](https://www.codecademy.com/learn/javascript) to have some fun learning JavaScript basics.
+Start with an [interactive tutorial to JavaScript](https://www.codecademy.com/learn/javascript) to learn some basics in a fun way.
 
 ## Beginning with JavaScript
 
-Got through a few [light theory lessons](http://htmldog.com/guides/javascript/) for JavaScript. Take a few initial steps in JavaScript by going through a few of the most commonly used JavaScript constructs.
+Go through a few [light theory lessons](http://htmldog.com/guides/javascript/) for JavaScript. Take a few initial steps in JavaScript by going through a few of the most commonly used JavaScript constructs.
 
 ## A Re-introduction to JavaScript
 
-Go for a [re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) to learn the language basics in a bit more detail.
+Get [re-introduced to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) and get a better perspective on the language.
 
 ## Object-Oriented Programming in JavaScript
 
-Take a look for how you can use [JavaScript in an object-oriented way](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects).
+Take a look at how you can use [JavaScript in an object-oriented way](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects).
 
 ## Best Practices for JavaScript
 
